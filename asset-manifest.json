@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/PIC-Search-App/static/css/main.18e0b75d.chunk.css",
+    "main.js": "/PIC-Search-App/static/js/main.229b15f2.chunk.js",
+    "main.js.map": "/PIC-Search-App/static/js/main.229b15f2.chunk.js.map",
+    "runtime-main.js": "/PIC-Search-App/static/js/runtime-main.9209c9f1.js",
+    "runtime-main.js.map": "/PIC-Search-App/static/js/runtime-main.9209c9f1.js.map",
+    "static/js/2.172aecc3.chunk.js": "/PIC-Search-App/static/js/2.172aecc3.chunk.js",
+    "static/js/2.172aecc3.chunk.js.map": "/PIC-Search-App/static/js/2.172aecc3.chunk.js.map",
+    "index.html": "/PIC-Search-App/index.html",
+    "precache-manifest.20199bb652e28a98b9881d099556dbc6.js": "/PIC-Search-App/precache-manifest.20199bb652e28a98b9881d099556dbc6.js",
+    "service-worker.js": "/PIC-Search-App/service-worker.js",
+    "static/css/main.18e0b75d.chunk.css.map": "/PIC-Search-App/static/css/main.18e0b75d.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9209c9f1.js",
+    "static/js/2.172aecc3.chunk.js",
+    "static/css/main.18e0b75d.chunk.css",
+    "static/js/main.229b15f2.chunk.js"
+  ]
+}
